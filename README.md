@@ -2,6 +2,17 @@
 title: felipe
 ---
 
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
+
+
 # feliperibeiro_space
 Repository for personal website creation
 
