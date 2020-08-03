@@ -1,6 +1,6 @@
 <h1 align="center" style="font-family: 'Times', sans-serif;">🌎 Hello there, i'm Felipe J. O. Ribeiro 🌎 </h1>
 
-<div style="font-size:1.2rem;display: flex;flex-direction: column; align-items:center;justify-content: center;font-family: 'Times', sans-serif;">
+<div style="font-size:1rem;display: flex;flex-direction: column; align-items:center;justify-content: center;font-family: 'Times', sans-serif;">
 
 - 👨 I’m currently working on:
   - 3D print automation.
@@ -10,8 +10,7 @@
   - Artificial intelligence.
   - FullStack Web development.
   - Image and 3D geometry processing. 
-  
-- 👯 I’m looking to collaborate on great open surce projects. 
+
 - 💌 How to reach me: feliperibeiro.ufu@gmail.com
 - ⚡ Fun fact: I love art stuff too (that`s why there is a pinterest acount bellow).
 <div>
