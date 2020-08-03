@@ -1,19 +1,6 @@
+<h1 align="center"> Hello there! 🚀 </h1>
 ---
-title: felipe
----
 
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
-
-
-
-# feliperibeiro_space
 Repository for personal website creation
 
 H^2^  is cool.
@@ -24,12 +11,11 @@ H^2^  is cool.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Artificial inteligence and game development.
 - 👯 I’m looking to collaborate on great open surce projects. 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about anything. The worst thing that can happen is something like "huo, i dont know man, maybe this can help: (...) "
+- 📫 How to reach me: feliperibeiro.ufu@gmail.com
+- ⚡ Fun fact: I love drawning and playing the guitar.
 
 ---
 
