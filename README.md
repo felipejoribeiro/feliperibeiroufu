@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there! My name is Felipe J. O. Ribeiro🚀 </h1>
+<h1 align="center"> Hello there! I'm is Felipe J. O. Ribeiro🚀 </h1>
 ---
 
 Repository for personal website creation
