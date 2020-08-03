@@ -10,8 +10,7 @@
   - Artificial intelligence.
   - FullStack Web development.
   - Image and 3D geometry processing. 
-
-- 💌 How to reach me: feliperibeiro.ufu@gmail.com
+  
 - ⚡ Fun fact: I love art stuff too (that`s why there is a pinterest acount bellow).
 <div>
 
