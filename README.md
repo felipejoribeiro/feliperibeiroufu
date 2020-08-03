@@ -1,7 +1,5 @@
 <h1 align="center" style="font-family: 'Times', sans-serif;">🌎 Hello there, i'm Felipe J. O. Ribeiro 🌎 </h1>
 
----
-
 <div style="font-size:1.2rem;display: flex;flex-direction: column; align-items:center;justify-content: center;font-family: 'Times', sans-serif;">
 
 - 👨 I’m currently working on:
