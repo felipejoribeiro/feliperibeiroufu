@@ -5,12 +5,10 @@
 - 👨 I’m currently working on:
   - 3D print automation.
   - Fluid mechanics research.
-  
 - 👶 I’m currently learning:
   - Artificial intelligence.
   - FullStack Web development.
   - Image and 3D geometry processing. 
-  
 - ⚡ Fun fact: I love art stuff too (that`s why there is a DeviantArt account bellow).
 
 <div>
