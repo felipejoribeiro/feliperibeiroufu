@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Times', sans-serif;">🌎 Hello there, i'm Felipe J. O. Ribeiro 🌎 </h1>
+<h1 align="center" style="font-family: 'Times', sans-serif;">🌎 Hi there, i'm Felipe J. O. Ribeiro 🌎 </h1>
 
 <div style="font-size:1rem;display: flex;flex-direction: column; align-items:center;justify-content: center;font-family: 'Times', sans-serif;">
 
