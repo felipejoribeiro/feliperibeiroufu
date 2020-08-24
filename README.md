@@ -32,6 +32,7 @@
 <code><img alt="Sublime text" width="40px" src="https://3.bp.blogspot.com/-xUddQNvN60A/VrtwiIx_kgI/AAAAAAAAL2s/RDvHAvYBiXA/s1600/sublime.png" /></code>
 <code><img alt="HTML5" width="40px" src="https://image.flaticon.com/icons/svg/226/226269.svg" /></code>
 <code><img alt="CSS" width="40px" src="https://image.flaticon.com/icons/svg/732/732190.svg" /></code>
+<code><img alt="Sass" width="40px" src="https://sass-lang.com/assets/img/logos/logo-b6e1ef6e.svg" /></code>
 <code><img alt="JavaScript" width="40px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" /></code>
 <code><img alt="React" width="40px" src="https://cdn.worldvectorlogo.com/logos/react.svg" /></code>
 <code><img alt="NodeJs" width="40px" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" /></code>
